@@ -4,3 +4,7 @@
 - Create Github account
 - Introduce database website
 - How to write README
+
+# Day 2
+- Department Store and Property Analysis
+- Buffer
