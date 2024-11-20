@@ -10,4 +10,4 @@
 - Buffer
 
 # Day 3
-- PropertyAnalysis href='https://raw.githubusercontent.com/NamThatphong/ECON_GIS_Study/refs/heads/main/kepler.gl.json?token=GHSAT0AAAAAAC2UOYGYMXN5YOVWTTOLH5IGZZ5YITA'
+- [PropertyAnalysis](https://raw.githubusercontent.com/NamThatphong/ECON_GIS_Study/refs/heads/main/kepler.gl.json?token=GHSAT0AAAAAAC2UOYGYMXN5YOVWTTOLH5IGZZ5YITA)
